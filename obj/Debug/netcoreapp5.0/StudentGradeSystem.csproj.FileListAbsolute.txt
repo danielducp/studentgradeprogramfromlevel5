@@ -1,0 +1,16 @@
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem.deps.json
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem.runtimeconfig.json
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem.runtimeconfig.dev.json
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem.dll
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/ref/StudentGradeSystem.dll
+/home/daniel/Downloads/OOP/StudentGradeSystem/bin/Debug/netcoreapp5.0/StudentGradeSystem.pdb
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.csproj.AssemblyReference.cache
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.AssemblyInfoInputs.cache
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.AssemblyInfo.cs
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.csproj.CoreCompileInputs.cache
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.dll
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/ref/StudentGradeSystem.dll
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.pdb
+/home/daniel/Downloads/OOP/StudentGradeSystem/obj/Debug/netcoreapp5.0/StudentGradeSystem.genruntimeconfig.cache

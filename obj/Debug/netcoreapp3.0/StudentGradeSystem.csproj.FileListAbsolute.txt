@@ -1,0 +1,66 @@
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.exe
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.deps.json
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.json
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.dev.json
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.dll
+C:/Users/Daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+C:/Users/Daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.csprojAssemblyReference.cache
+C:/Users/Daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfoInputs.cache
+C:/Users/Daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfo.cs
+C:/Users/Daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.dll
+C:/Users/Daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.exe
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.deps.json
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.json
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.dev.json
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.dll
+F:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+F:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.csprojAssemblyReference.cache
+F:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfoInputs.cache
+F:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfo.cs
+F:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.dll
+F:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+G:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.csprojAssemblyReference.cache
+G:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfoInputs.cache
+G:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfo.cs
+G:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.dll
+G:/OOPD/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.exe
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.deps.json
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.json
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.dev.json
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.dll
+G:/OOPD/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.deps.json
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.json
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.dev.json
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.dll
+/home/daniel/Documents/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+/home/daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.csprojAssemblyReference.cache
+/home/daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfoInputs.cache
+/home/daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfo.cs
+/home/daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.dll
+/home/daniel/Documents/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.deps.json
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.json
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.runtimeconfig.dev.json
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.dll
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/bin/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.csprojAssemblyReference.cache
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfoInputs.cache
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.AssemblyInfo.cs
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.dll
+/home/daniel/Documents/OOP Completed/StudentGradeSystem/obj/Debug/netcoreapp3.0/StudentGradeSystem.pdb
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.exe
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.deps.json
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.runtimeconfig.json
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.dll
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\bin\Debug\netcoreapp3.0\StudentGradeSystem.pdb
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\obj\Debug\netcoreapp3.0\StudentGradeSystem.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\obj\Debug\netcoreapp3.0\StudentGradeSystem.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\obj\Debug\netcoreapp3.0\StudentGradeSystem.AssemblyInfo.cs
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\obj\Debug\netcoreapp3.0\StudentGradeSystem.dll
+C:\Users\Daniel\Documents\OOP Completed\OOP Completed\StudentGradeSystem\obj\Debug\netcoreapp3.0\StudentGradeSystem.pdb
